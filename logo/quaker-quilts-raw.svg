@@ -14,7 +14,7 @@
    viewBox="0 0 31.890757 11.1125"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="quaker-quilts-raw.svg">
   <defs
      id="defs2" />
@@ -25,18 +25,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="89.253053"
-     inkscape:cy="-14.823634"
+     inkscape:zoom="6.3230241"
+     inkscape:cx="81.147819"
+     inkscape:cy="32.154344"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3749"
      showgrid="false"
      units="px"
      inkscape:pagecheckerboard="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="1991"
-     inkscape:window-y="-9"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,14 +57,15 @@
      transform="translate(0,-285.88749)">
     <g
        id="g3749"
-       transform="matrix(1.0649088,0,0,1.0649088,-38.331845,222.09515)">
+       transform="matrix(1.0649088,0,0,1.0649088,-38.331845,222.09515)"
+       style="fill:#000000">
       <text
          id="text12"
          y="70.286293"
          x="35.529758"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:WestBalaio;-inkscape-font-specification:'WestBalaio, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#784421;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:WestBalaio;-inkscape-font-specification:'WestBalaio, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:WestBalaio;-inkscape-font-specification:'WestBalaio, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#784421;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:WestBalaio;-inkscape-font-specification:'WestBalaio, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
            y="70.286293"
            x="35.529758"
            id="tspan10"
@@ -72,19 +73,30 @@
       <text
          id="text16-0"
          y="63.498039"
-         x="46.156715"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.68567562px;line-height:1.25;font-family:'Trajan Pro';-inkscape-font-specification:'Trajan Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#784421;fill-opacity:1;stroke:none;stroke-width:0.11714614"
+         x="46.26276"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.68567562px;line-height:1.25;font-family:'Trajan Pro';-inkscape-font-specification:'Trajan Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11714614"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.68567562px;font-family:'Trajan Pro';-inkscape-font-specification:'Trajan Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#784421;stroke-width:0.11714614"
-           y="63.498039"
-           x="46.156715"
-           id="tspan14-1"
-           sodipodi:role="line">Quaker</tspan><tspan
            id="tspan18-0"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.68567562px;font-family:'Trajan Pro';-inkscape-font-specification:'Trajan Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#784421;stroke-width:0.11714614"
-           y="69.355133"
-           x="46.156715"
-           sodipodi:role="line">Quilts</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.68567562px;font-family:'Trajan Pro';-inkscape-font-specification:'Trajan Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.11714614"
+           y="63.498039"
+           x="46.26276"
+           sodipodi:role="line">Quaker</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.9382534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24845633"
+         x="46.262768"
+         y="47.941677"
+         id="text19"><tspan
+           sodipodi:role="line"
+           id="tspan17"
+           x="46.262768"
+           y="56.734703"
+           style="stroke-width:0.24845633" /><tspan
+           sodipodi:role="line"
+           x="46.262768"
+           y="69.157516"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.68555498px;font-family:'Trajan Pro';-inkscape-font-specification:'Trajan Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.24845633"
+           id="tspan21">Quilts</tspan></text>
     </g>
   </g>
 </svg>
