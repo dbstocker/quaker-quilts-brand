@@ -16,7 +16,7 @@
    id="svg351"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="baq-email.svg"
-   inkscape:export-filename="/home/david/Desktop/web-projects/bon-air-quilt/bon-air-quilt-brand/logo/png/black/logo-black-social-hzt.png"
+   inkscape:export-filename="/home/david/Documents/web-projects/bon-air-quilt/bon-air-quilt-brand/logo/png/black/email-sig/baq-email.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.99220198"
-     inkscape:cx="233.96911"
+     inkscape:cx="62.633028"
      inkscape:cy="44.628689"
      inkscape:document-units="px"
      inkscape:current-layer="g125"
@@ -66,11 +66,14 @@
        id="g125"
        transform="matrix(1.9564492,0,0,1.9564492,-63.883893,-190.65253)">
       <g
-         style="fill:#000000;stroke-width:6.66666698"
+         style="fill:#444444;stroke-width:6.66666698;fill-opacity:1"
          id="g44"
-         transform="matrix(0.02964846,0,0,0.02964846,29.081228,239.25166)">
+         transform="matrix(0.02964846,0,0,0.02964846,29.081228,239.25166)"
+         inkscape:export-filename="/home/david/Documents/web-projects/bon-air-quilt/bon-air-quilt-brand/logo/png/black/email-sig/baq-email.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
         <path
-           style="fill:#000000;stroke-width:6.66666698"
+           style="fill:#444444;stroke-width:6.66666698;fill-opacity:1"
            id="path42"
            d="m 394.58,137.9 c -37.54,0 -70.37,20.79 -87.38,51.62 -17.01,-30.82 -49.85,-51.62 -87.38,-51.62 -32.08,0 -59.14,17.01 -74.61,41.36 V 63.68 h -24.74 v 173.95 c 0,55.28 44.45,99.73 99.35,99.73 37.54,0 70.37,-20.79 87.38,-51.62 17.01,30.82 49.84,51.62 87.38,51.62 32.86,0 61.85,-18.94 74.61,-44.45 v 41.36 h 24.74 v -96.64 c 0,-55.27 -44.46,-99.73 -99.35,-99.73 z M 219.82,313.79 c -42.91,0 -74.99,-33.63 -74.99,-76.15 0,-42.52 32.86,-76.15 74.99,-76.15 41.75,0 74.99,33.63 74.99,76.15 0,42.52 -32.47,76.15 -74.99,76.15 z m 175.15,0 c -41.75,0 -75.38,-33.63 -75.38,-76.15 0,-42.52 32.86,-76.15 75.38,-76.15 42.52,0 74.61,33.63 74.61,76.15 0,42.52 -32.86,76.15 -74.61,76.15 z"
            inkscape:connector-curvature="0" />
