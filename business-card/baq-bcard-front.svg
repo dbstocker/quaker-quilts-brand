@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.5in"
+   height="2in"
+   viewBox="0 0 88.900001 50.800001"
+   version="1.1"
+   id="svg1036"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="baq-bcard-front.svg">
+  <defs
+     id="defs1030" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="89.240796"
+     inkscape:cy="67.562492"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1033">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-246.19999)">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:0.13229167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1581"
+       width="82.417709"
+       height="44.317707"
+       x="3.2411458"
+       y="249.44113" />
+    <g
+       id="g1748"
+       transform="translate(-2.6458329,0.23978638)">
+      <g
+         style="stroke-width:4.48317003"
+         transform="matrix(0.08625698,0,0,0.08625698,-0.86637814,254.30374)"
+         id="g44">
+        <path
+           style="stroke-width:4.48317003"
+           inkscape:connector-curvature="0"
+           d="m 394.58,137.9 c -37.54,0 -70.37,20.79 -87.38,51.62 -17.01,-30.82 -49.85,-51.62 -87.38,-51.62 -32.08,0 -59.14,17.01 -74.61,41.36 V 63.68 h -24.74 v 173.95 c 0,55.28 44.45,99.73 99.35,99.73 37.54,0 70.37,-20.79 87.38,-51.62 17.01,30.82 49.84,51.62 87.38,51.62 32.86,0 61.85,-18.94 74.61,-44.45 v 41.36 h 24.74 v -96.64 c 0,-55.27 -44.46,-99.73 -99.35,-99.73 z M 219.82,313.79 c -42.91,0 -74.99,-33.63 -74.99,-76.15 0,-42.52 32.86,-76.15 74.99,-76.15 41.75,0 74.99,33.63 74.99,76.15 0,42.52 -32.47,76.15 -74.99,76.15 z m 175.15,0 c -41.75,0 -75.38,-33.63 -75.38,-76.15 0,-42.52 32.86,-76.15 75.38,-76.15 42.52,0 74.61,33.63 74.61,76.15 0,42.52 -32.86,76.15 -74.61,76.15 z"
+           id="path42" />
+      </g>
+      <g
+         style="stroke-width:4.48317003"
+         id="g1028"
+         transform="matrix(0.22305646,0,0,0.22305646,-14.900569,173.39333)">
+        <path
+           id="path22"
+           d="m 307.88935,460.07359 c 0.0137,0.18527 0.0137,0.37063 0.0137,0.55563 0,5.6488 -4.29942,12.15745 -12.15746,12.15745 -2.42093,0 -4.66985,-0.70119 -6.56161,-1.91822 0.34431,0.0385 0.67466,0.0515 1.03189,0.0515 1.99753,0 3.83638,-0.67465 5.30477,-1.82555 -1.87846,-0.0385 -3.4527,-1.27001 -3.99515,-2.96329 0.26457,0.0385 0.52934,0.0657 0.80704,0.0657 0.38346,0 0.76724,-0.0514 1.12441,-0.14497 -1.95788,-0.39696 -3.42637,-2.11662 -3.42637,-4.19359 v -0.0516 c 0.56849,0.31734 1.23033,0.5158 1.93145,0.54215 -1.15092,-0.76734 -1.90494,-2.07697 -1.90494,-3.55866 0,-0.79369 0.21149,-1.5213 0.58199,-2.15628 2.10341,2.59286 5.26515,4.28615 8.81049,4.4714 -0.0657,-0.31731 -0.10604,-0.64819 -0.10604,-0.97891 0,-2.3548 1.90496,-4.27302 4.27297,-4.27302 1.23023,0 2.34153,0.5158 3.12202,1.34938 0.96564,-0.18527 1.89169,-0.54221 2.71193,-1.03189 -0.31733,0.99222 -0.99219,1.82566 -1.8785,2.35481 0.85992,-0.0925 1.69332,-0.33082 2.46058,-0.66142 -0.58194,0.84659 -1.30962,1.60059 -2.14311,2.20918 z"
+           style="fill:currentColor;stroke-width:0.18255733"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12"
+           d="m 299.61013,435.93564 c -2.40313,0 -4.34148,1.93839 -4.34148,4.3415 0,2.40312 1.93835,4.34148 4.34148,4.34148 2.4031,0 4.3415,-1.93836 4.3415,-4.34148 0,-2.40311 -1.93838,-4.3415 -4.3415,-4.3415 z m 0,7.16405 c -1.55295,0 -2.82253,-1.26583 -2.82253,-2.82255 0,-1.55675 1.2658,-2.82253 2.82253,-2.82253 1.55676,0 2.82253,1.26578 2.82253,2.82253 0,1.55672 -1.26956,2.82255 -2.82253,2.82255 z m 5.5317,-7.34162 c 0,0.56299 -0.45342,1.01264 -1.01264,1.01264 -0.56298,0 -1.01262,-0.45343 -1.01262,-1.01264 0,-0.55923 0.45343,-1.01264 1.01262,-1.01264 0.55922,0 1.01264,0.45341 1.01264,1.01264 z m 2.87543,1.02775 c -0.0642,-1.35647 -0.37407,-2.55804 -1.36781,-3.54801 -0.98996,-0.98996 -2.19151,-1.2998 -3.548,-1.36781 -1.39804,-0.0794 -5.58838,-0.0794 -6.98642,0 -1.35271,0.0642 -2.55426,0.37407 -3.548,1.36404 -0.99374,0.98996 -1.29981,2.19151 -1.36781,3.548 -0.0794,1.39804 -0.0794,5.58838 0,6.98642 0.0642,1.35649 0.37407,2.55804 1.36781,3.548 0.99374,0.98997 2.19152,1.29981 3.548,1.36781 1.39806,0.0794 5.58838,0.0794 6.98642,0 1.35649,-0.0642 2.55804,-0.37407 3.548,-1.36781 0.98997,-0.98996 1.29981,-2.19151 1.36781,-3.548 0.0794,-1.39804 0.0794,-5.58461 0,-6.98264 z m -1.80611,8.48269 c -0.29472,0.74059 -0.86528,1.31115 -1.60963,1.60965 -1.11467,0.44208 -3.75959,0.34007 -4.99139,0.34007 -1.23178,0 -3.88052,0.0982 -4.99137,-0.34007 -0.7406,-0.29474 -1.31116,-0.86528 -1.60965,-1.60965 -0.44208,-1.11465 -0.34007,-3.75959 -0.34007,-4.99137 0,-1.2318 -0.0982,-3.8805 0.34007,-4.99139 0.29472,-0.7406 0.86528,-1.31114 1.60965,-1.60963 1.11463,-0.44208 3.75959,-0.34007 4.99137,-0.34007 1.2318,0 3.88052,-0.0982 4.99139,0.34007 0.74059,0.29472 1.31113,0.86526 1.60963,1.60963 0.4421,1.11466 0.34007,3.75959 0.34007,4.99139 0,1.23178 0.10193,3.88052 -0.34007,4.99137 z"
+           style="fill:currentColor;stroke-width:0.16939606"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text859"
+           y="394.99615"
+           x="315.50357"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.18617201"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.18617201"
+             y="394.99615"
+             x="315.50357"
+             id="tspan857"
+             sodipodi:role="line">facebook.com/bonairquiltco</tspan></text>
+        <text
+           id="text859-7"
+           y="443.01294"
+           x="314.94266"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.18617201"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.18617201"
+             y="443.01294"
+             x="314.94266"
+             id="tspan857-6"
+             sodipodi:role="line">instagram.com/bonairquiltco</tspan></text>
+        <text
+           id="text859-7-0"
+           y="419.03891"
+           x="315.0379"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.18617201"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.18617201"
+             y="419.03891"
+             x="315.0379"
+             id="tspan857-6-5"
+             sodipodi:role="line">pinterest.com/bonairquiltco</tspan></text>
+        <text
+           id="text859-7-0-2"
+           y="467.12457"
+           x="315.50357"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.18617201"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.18617201"
+             y="467.12457"
+             x="315.50357"
+             id="tspan857-6-5-9"
+             sodipodi:role="line">twitter.com/bonairquiltco</tspan></text>
+        <text
+           id="text859-7-0-2-0"
+           y="491.16733"
+           x="314.96384"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.18617201"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.18617201"
+             y="491.16733"
+             x="314.96384"
+             id="tspan857-6-5-9-2"
+             sodipodi:role="line">m.me/bonairquiltco</tspan></text>
+        <path
+           style="fill:currentColor;stroke-width:1.18617201"
+           inkscape:connector-curvature="0"
+           d="m 299.62703,479.8961 c -4.78084,0 -8.48588,3.49404 -8.48588,8.21342 0,2.46844 1.01434,4.60159 2.66543,6.07515 0.28507,0.25639 0.22636,0.40491 0.27484,1.98807 a 0.68009921,0.68009921 0 0 0 0.95187,0.59986 c 1.80641,-0.79551 1.82963,-0.85833 2.13589,-0.77503 5.23354,1.44044 10.90617,-1.90884 10.90617,-7.88805 0,-4.71938 -3.66715,-8.21342 -8.44832,-8.21342 z m 5.09528,6.32062 -2.49234,3.94574 a 1.2758689,1.2758689 0 0 1 -1.84057,0.33902 l -1.98294,-1.48413 a 0.51212292,0.51212292 0 0 0 -0.61454,0 l -2.67568,2.02937 c -0.35711,0.27073 -0.82486,-0.1571 -0.58415,-0.53499 l 2.49232,-3.94575 a 1.2755274,1.2755274 0 0 1 1.84057,-0.33901 l 1.98227,1.48379 a 0.51212292,0.51212292 0 0 0 0.61454,0 l 2.67703,-2.02733 c 0.35644,-0.27246 0.82417,0.15495 0.58349,0.53329 z"
+           id="path959" />
+        <path
+           style="fill:currentColor;stroke-width:1.18617201"
+           inkscape:connector-curvature="0"
+           d="m 300.01541,407.76766 c -3.48094,0 -6.92116,2.32063 -6.92116,6.07636 0,2.38847 1.34354,3.74557 2.15777,3.74557 0.33588,0 0.52928,-0.9364 0.52928,-1.20103 0,-0.31552 -0.80408,-0.98728 -0.80408,-2.30026 0,-2.72776 2.07634,-4.66161 4.76338,-4.66161 2.31043,0 4.02037,1.313 4.02037,3.72522 0,1.80154 -0.72265,5.18068 -3.06362,5.18068 -0.8448,0 -1.56743,-0.61069 -1.56743,-1.48601 0,-1.28245 0.89566,-2.52419 0.89566,-3.84735 0,-2.24597 -3.18576,-1.83885 -3.18576,0.87533 0,0.56997 0.0712,1.20103 0.32571,1.72011 -0.4682,2.01528 -1.42495,5.01783 -1.42495,7.09419 0,0.64122 0.0916,1.27225 0.15261,1.91348 0.11543,0.12893 0.0577,0.11543 0.23409,0.0509 1.70993,-2.34097 1.64887,-2.799 2.42241,-5.86262 0.41729,0.79389 1.49618,1.22137 2.35115,1.22137 3.60307,0 5.22141,-3.51145 5.22141,-6.67687 0,-3.36897 -2.91096,-5.56745 -6.1069,-5.56745 z"
+           id="path970" />
+        <path
+           style="fill:currentColor;stroke-width:1.18617201"
+           inkscape:connector-curvature="0"
+           d="m 306.13655,383.72488 h -13.30477 a 1.8142857,1.8142857 0 0 0 -1.81428,1.81429 v 13.30476 a 1.8142857,1.8142857 0 0 0 1.81428,1.81429 h 5.18772 v -5.75697 h -2.38124 v -2.7097 h 2.38124 v -2.06527 c 0,-2.34913 1.39852,-3.6467 3.5405,-3.6467 1.02583,0 2.09853,0.18293 2.09853,0.18293 v 2.30565 h -1.18193 c -1.16454,0 -1.52779,0.72269 -1.52779,1.46392 v 1.75947 h 2.59973 l -0.41577,2.7097 h -2.18396 v 5.75697 h 5.18774 a 1.8142857,1.8142857 0 0 0 1.81427,-1.81429 v -13.30476 a 1.8142857,1.8142857 0 0 0 -1.81427,-1.81429 z"
+           id="path981" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.2191968px;line-height:1.25;font-family:'Nordique Pro';-inkscape-font-specification:'Nordique Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.51764387"
+       x="44.450001"
+       y="253.02843"
+       id="text94"><tspan
+         sodipodi:role="line"
+         x="44.450001"
+         y="253.02843"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.2191968px;font-family:'Nordique Pro';-inkscape-font-specification:'Nordique Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.51764387"
+         id="tspan100">bonairquiltco.com</tspan></text>
+    <text
+       id="text72"
+       y="293.76624"
+       x="26.522156"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.87420845px;line-height:1.25;font-family:'Nordique Pro';-inkscape-font-specification:'Nordique Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.87420845px;font-family:'Nordique Pro';-inkscape-font-specification:'Nordique Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458335"
+         y="293.76624"
+         x="26.522156"
+         id="tspan70"
+         sodipodi:role="line">@BonAirQuiltCo</tspan></text>
+  </g>
+</svg>
