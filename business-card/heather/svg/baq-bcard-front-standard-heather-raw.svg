@@ -15,7 +15,7 @@
    version="1.1"
    id="svg1036"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="baq-bcard-back-standard.svg">
+   sodipodi:docname="baq-bcard-front-standard-heather-raw.svg">
   <defs
      id="defs1030" />
   <sodipodi:namedview
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="268.22454"
-     inkscape:cy="61.887852"
+     inkscape:zoom="3.959798"
+     inkscape:cx="199.65279"
+     inkscape:cy="71.178698"
      inkscape:document-units="in"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g949-3"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="32"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata1033">
@@ -236,16 +236,15 @@
                sodipodi:role="line">stocker</tspan></text>
           <text
              id="text1813-5-4-4-3"
-             y="266.13074"
+             y="266.92471"
              x="51.172112"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
              xml:space="preserve"><tspan
-               dx="0"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.26458335px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458335"
-               y="266.13074"
+               y="266.92471"
                x="51.172112"
                id="tspan1811-0-2-7-4"
-               sodipodi:role="line">QUILTER, DESIGNER</tspan></text>
+               sodipodi:role="line">CO-OWNER, DESIGNER</tspan></text>
         </g>
       </g>
     </g>
